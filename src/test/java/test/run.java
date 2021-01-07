@@ -12,6 +12,7 @@ public class run extends basetest {
 		
 		data d=new data(driver);
 		d.submit();
+		
 	}
 	
 }
